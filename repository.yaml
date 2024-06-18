@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
-maintainer: Awesome Maintainer <awesome@example.com>
+name: Testing Home Assistant add-on repository Bongo505
+url: 'https://github.com/bongo505/addons-repo'
+maintainer: Awesome Maintainer <adrumm@gmail.com>
