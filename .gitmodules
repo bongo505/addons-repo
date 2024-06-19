@@ -1,0 +1,3 @@
+[submodule "hass-actronque"]
+	path = hass-actronque
+	url = https://github.com/bongo505/hass-actronque
